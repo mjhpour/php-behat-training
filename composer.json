@@ -1,0 +1,20 @@
+{
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Javad",
+            "email": "mjavadhpour@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "^7.0"
+    },
+    "require-dev": {
+        "behat/behat": "^3.4",
+        "phpunit/phpunit": "^6.5"
+    },
+    "suggest": {
+        "php" : "Using return type in functions that introduced just in the PHP ^7.0"
+    }
+}
